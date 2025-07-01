@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=HARDIK%20CHHALLANI&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=65"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🧠+NEURAL+NETWORK+ARCHITECT;⚡+BUILDING+LLMS+FROM+SCRATCH;🏥+HEALTHCARE+AI+SPECIALIST;🌐+OPEN+SOURCE+CONTRIBUTOR;💀+CYBERPUNK+DEVELOPER;🚀+AI+REVOLUTIONARY" alt="Cyberpunk Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🧠+NEURAL+NETWORK+ARCHITECT;⚡+BUILDING+LLMS+FROM+SCRATCH;🏥+AI+SPECIALIST;🌐+OPEN+SOURCE+CONTRIBUTOR;💀+SOFTWARE+DEVELOPER;🚀+AI+ENTHUSIAST" alt="Cyberpunk Typing"/>
 
 
 </div>
