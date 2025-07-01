@@ -44,38 +44,6 @@
 
 ---
 
-## ⚡ `> INTERFACE.INITIALIZE()`
-
-
-```python
-class HardikChhallani:
-    def __init__(self):
-        self.designation = "AI ARCHITECT & ML ENGINEER"
-        self.base_location = "INDIA | CYBERSPACE_NODE_001"
-        self.academic_status = "B.TECH CSE | VIT VELLORE 2026"
-        self.core_abilities = [
-            "🧠 Large Language Model Architecture",
-            "🏥 Healthcare AI System Design", 
-            "⚙️ Neural Network Engineering",
-            "🔬 Clinical Data Intelligence",
-            "🚀 Full-Stack AI Development"
-        ]
-        
-    def get_current_status(self):
-        return {
-            "🎯 PRIMARY_FOCUS": "Building LLMArche from ground zero",
-            "💼 ACTIVE_ROLE": "AI Developer @Orbi Health",
-            "🚀 MAIN_QUEST": "Revolutionizing Healthcare through AI",
-            "🔥 MOTIVATION": "Creating the impossible!",
-            "⚡ MODE": "BEAST_MODE_ACTIVATED"
-        }
-        
-    def display_motto(self):
-        print("🌟 Code the future, architect intelligence! 🌟")
-```
-
----
-
 ## 🌟 `> EXPERIENCE_DATABASE.ACCESS`
 
 ### `🏥 ORBI_HEALTH(EKA.CARE) | ACTIVE_DEPLOYMENT`
@@ -237,10 +205,7 @@ $ decrypt DEFENSE_SYSTEMS_LOG
 </div>
 
 ---
-
 <div align="center">
-
-<img src="./assets/cyberpunk-footer.gif" width="500" alt="Cyberpunk Footer">
 
 ### `> SYSTEM.PHILOSOPHY.DISPLAY`
 
