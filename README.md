@@ -220,43 +220,10 @@ $ decrypt DEFENSE_SYSTEMS_LOG
 
 ---
 
-## 🎯 `> LEADERSHIP_PROTOCOL.EXECUTIVE_MODE`
+## 🌐 `> ESTABLISH_CONNECTION.NETWORK`
 
-<table align="center">
-<tr>
-<td width="60%">
-
-### `📢 OUTREACH_COMMANDER | MARKETING_DIVISION`
-
-```bash
-$ sudo execute LEADERSHIP_SYSTEMS
-> Timeline: JAN 2024 - DEC 2024
-> Status: MISSION_ACCOMPLISHED_WITH_EXCELLENCE
-> Role: Strategic Operations Commander
-```
-
-**🎯 STRATEGIC_OPERATIONS_COMPLETED:**
-- **📊 EVENT_ORCHESTRATION**: Masterfully executed online/offline event deployment matrices
-- **🔗 NETWORK_EXPANSION**: Successfully acquired high-profile speakers through strategic LinkedIn/Email campaigns  
-- **👥 TEAM_COORDINATION**: Led cross-functional teams with precision and achieved exponential member engagement
-- **🚀 GROWTH_METRICS**: Delivered measurable results in club expansion and community building initiatives
-
-</td>
-<td>
-
-<img src="./assets/leadership-animation.gif" width="250" alt="Leadership Animation">
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 `> ESTABLISH_NEURAL_CONNECTION.NETWORK`
-
-<div align="center">
-
-<img src="./assets/connection-animation.gif" width="400" alt="Connection Animation">
+<div align="center" width="40%>
+<img src="./assets/cyberpunk-footer.gif" width="500" alt="Cyberpunk Footer">
 
 ```
     ╔══════════════════════════════════════════════╗
@@ -267,16 +234,16 @@ $ sudo execute LEADERSHIP_SYSTEMS
 ```
 
 <a href="https://linkedin.com/in/hardik-chhallani">
-<img src="https://img.shields.io/badge/LINKEDIN_MATRIX-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000"/>
 </a>
 <a href="https://twitter.com/hardikjain8071">
 <img src="https://img.shields.io/badge/TWITTER_FEED-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=000000"/>
 </a>
-<a href="https://kaggle.com/hardik_3599">
+<a href="https://kaggle.com/hardik3599">
 <img src="https://img.shields.io/badge/KAGGLE_LAB-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=000000"/>
 </a>
 <a href="mailto:hardikchhallani04@gmail.com">
-<img src="https://img.shields.io/badge/QUANTUM_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000"/>
+<img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000"/>
 </a>
 
 </div>
@@ -285,16 +252,16 @@ $ sudo execute LEADERSHIP_SYSTEMS
 
 <div align="center">
 
-<img src="./assets/cyberpunk-footer.gif" width="900" alt="Cyberpunk Footer">
+<img src="./assets/cyberpunk-footer.gif" width="500" alt="Cyberpunk Footer">
 
 ### `> SYSTEM.PHILOSOPHY.DISPLAY`
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║  "THE FUTURE BELONGS TO THOSE WHO CODE IT"                       ║
-║  - ARCHITECTING TOMORROW'S AI, ONE NEURAL NETWORK AT A TIME -    ║
-║                            - HARDIK CHHALLANI                    ║
-╚═══════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║  "THE FUTURE BELONGS TO THOSE WHO CODE IT"                     ║
+║  - ARCHITECTING TOMORROW'S AI, ONE NEURAL NETWORK AT A TIME -  ║
+║                            - HARDIK CHHALLANI                  ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs&border=true&bg_color=000000&title_color=00FF41&text_color=00FF41"/>
