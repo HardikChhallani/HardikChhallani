@@ -1,22 +1,307 @@
-# 💫 About Me:
-💻 I'm currently working on: Improving my DSA and competitive programming skills while working on a web development project in February.<br><br>🤝 I'm looking to collaborate on: LLM research, AI Agents, Full-stack web development projects, open-source contributions, and problem-solving challenges.<br><br>🆘 I'm looking for help with: Advanced DSA topics, optimizing problem-solving speed, and effective competitive programming strategies.<br><br>📚 I'm currently learning: Advanced DSA, competitive coding, computer fundamentals (OS, DBMS, CN), web development, and Agentic AI.<br><br>❓ Ask me about: AI Agents, Web development (React.js, Node.js, MongoDB, Express.js), DSA, problem-solving, and my experiences with projects like 'Dravya' and 'LLMArche'<br><br>🎉 Fun fact: I love tackling complex coding problems and optimizing solutions mainly IP blocking related. I also enjoy learning about emerging technologies like AI, cloud computing, and blockchain! 🚀
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=HARDIK%20CHHALLANI&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=65"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🧠+NEURAL+NETWORK+ARCHITECT;⚡+BUILDING+LLMS+FROM+SCRATCH;🏥+HEALTHCARE+AI+SPECIALIST;🌐+OPEN+SOURCE+CONTRIBUTOR;💀+CYBERPUNK+DEVELOPER;🚀+AI+REVOLUTIONARY" alt="Cyberpunk Typing"/>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raghavgau7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hardik-chhallani) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hardikjain8071) [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Hardik3599)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HardikChhallani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HardikChhallani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HardikChhallani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HardikChhallani&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HardikChhallani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🔥 `> SYSTEM.STATUS`
+
+<table align="center">
+<tr>
+<td>
+
+```yaml
+🎯 CODENAME: "HARDIK_CHHALLANI"
+🌟 STATUS: "ONLINE | CODING | BUILDING_AI"
+📍 LOCATION: "MATRIX://VIT_VELLORE"
+🏆 PERFORMANCE: "9.03/10.0 | ELITE_TIER"
+🚀 CURRENT_MISSION: "LLMArche_GPT2_Implementation"
+⚡ POWER_LEVEL: "MAXIMUM_OVERDRIVE"
+🎮 EXPERTISE: "AI_ARCHITECT | ML_ENGINEER"
+```
+
+</td>
+<td>
+
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hardikchhallani&label=PROFILE%20VISITS&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/hardikchhallani?label=FOLLOWERS&style=for-the-badge&color=ff6b6b)
+![Stars](https://img.shields.io/github/stars/hardikchhallani?label=TOTAL%20STARS&style=for-the-badge&color=feca57)
+
+</div>
+
+---
+
+## ⚡ `> INTERFACE.INITIALIZE()`
+
+
+```python
+class HardikChhallani:
+    def __init__(self):
+        self.designation = "AI ARCHITECT & ML ENGINEER"
+        self.base_location = "INDIA | CYBERSPACE_NODE_001"
+        self.academic_status = "B.TECH CSE | VIT VELLORE 2026"
+        self.core_abilities = [
+            "🧠 Large Language Model Architecture",
+            "🏥 Healthcare AI System Design", 
+            "⚙️ Neural Network Engineering",
+            "🔬 Clinical Data Intelligence",
+            "🚀 Full-Stack AI Development"
+        ]
+        
+    def get_current_status(self):
+        return {
+            "🎯 PRIMARY_FOCUS": "Building LLMArche from ground zero",
+            "💼 ACTIVE_ROLE": "AI Developer @Orbi Health",
+            "🚀 MAIN_QUEST": "Revolutionizing Healthcare through AI",
+            "🔥 MOTIVATION": "Creating the impossible!",
+            "⚡ MODE": "BEAST_MODE_ACTIVATED"
+        }
+        
+    def display_motto(self):
+        print("🌟 Code the future, architect intelligence! 🌟")
+```
+
+---
+
+## 🌟 `> EXPERIENCE_DATABASE.ACCESS`
+
+### `🏥 ORBI_HEALTH(EKA.CARE) | ACTIVE_DEPLOYMENT`
+
+```bash
+$ sudo access HEALTHCARE_AI_DIVISION
+> Status: ████████████ ACTIVE | May 2025 - Present
+> Clearance Level: SENIOR_DEVELOPER
+> Mission: Next-gen Medical Intelligence Systems
+```
+
+**🎯 CORE_OPERATIONS:**
+- **🧬 BIOMEDICAL_AI**: Engineered MCP servers integrated with LLMs using clinical datasets (SNOMED, ICT, Pharmacology)
+- **🤖 INTELLIGENT_CHATBOTS**: Built autonomous systems for doctor scheduling, appointment management, and real-time calendar synchronization
+- **🌐 DATA_ACQUISITION**: Implemented multi-language medical data scraping across Indian healthcare networks
+- **⚡ SYSTEM_OPTIMIZATION**: Enhanced healthcare workflow automation with 40% efficiency gains
+
+### `✈️ AERONAUTICAL_DEV_AGENCY | CLASSIFIED_PROJECT`
+
+```bash
+$ decrypt DEFENSE_SYSTEMS_LOG
+> Status: ████████████ COMPLETED | June-July 2024  
+> Security Level: RESTRICTED_ACCESS
+> Project Codename: WIKI_NEURAL_DEPLOYMENT
+```
+
+**🛡️ STRATEGIC_ACHIEVEMENTS:**
+- **📊 KNOWLEDGE_SYSTEMS**: Deployed internal Wiki infrastructure for 200+ defense engineers
+- **📈 PERFORMANCE_BOOST**: Achieved 30% improvement in documentation and knowledge sharing efficiency
+- **🦾 AI_INTEGRATION**: Fine-tuned Llama3 models for classified internal defense applications
+- **🛩️ AEROSPACE_ANALYSIS**: Conducted advanced structural analysis using CATIA V5 for fighter aircraft simulation research
+
+---
+
+## 🎮 `> LEGENDARY_PROJECTS.DATABASE`
+
+<div align="center">
+</div>
+
+### 🏥 `DRAVYA.AI | HEALTHCARE_REVOLUTION_PROTOCOL`
+
+<table>
+<tr>
+<td width="60%">
+
+```
+┌─ GENERIC MEDICINE AI GUIDANCE SYSTEM ──────────┐
+│                                                │
+│ 🎯 MISSION: Democratize medicine accessibility │
+│ ⚡ TECH_STACK: Eka.Care MCP + Clinical Context  │
+│ 🚀 IMPACT: Cost reduction + Healthcare access  │
+│ 💊 DEPLOYMENT: [████████████] 100% LIVE        │
+│ 🌟 USERS: Thousands of patients benefited      │
+│                                                │
+└────────────────────────────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
+
+### 🤖 `LLMARCHE.NEURAL | AI_ARCHITECTURE_FROM_SCRATCH`
+
+<table>
+<tr>
+
+<td width="60%">
+
+```
+┌─ GPT-2 TRANSFORMER RECREATION PROJECT ──────────┐
+│                                                 │
+│ 🧠 CORE_TECH: Custom Transformer Architecture   │
+│ ⚖️ DATASET: Indian Legal System (BNS)           │
+│ 🎯 TARGET_USERS: Legal professionals & students │
+│ 🔥 PROGRESS: [██████████░░] 85% COMPLETE        │
+│ 🌟 INNOVATION: Built from absolute zero         │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ `> CYBERNETIC_TECH_ARSENAL.LOADOUT`
+
+<div align="center">
+
+### `⚡ CORE_PROGRAMMING_MATRIX`
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000)
+![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41&labelColor=000000)
+
+### `🧠 AI_FRAMEWORK_SYSTEMS`
+![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=FF0080&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6600&labelColor=000000)
+![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=00BFFF&labelColor=000000)
+![Scikit](https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E&labelColor=000000)
+![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=000000)
+
+### `🌐 WEB_DEVELOPMENT_PROTOCOLS`
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=00FF41&labelColor=000000)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF&labelColor=000000)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-000000?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=000000)
+
+### `☁️ CLOUD_INFRASTRUCTURE_NETWORK`
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000)
+![CATIA](https://img.shields.io/badge/CATIA_V5-000000?style=for-the-badge&logo=dassaultsystemes&logoColor=005386&labelColor=000000)
+
+</div>
+
+---
+
+## 📊 `> ACTIVITY_ANALYTICS.DASHBOARD`
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardikChhallani&layout=compact&theme=chartreuse-dark&bg_color=000000&title_color=00FF41&text_color=00FF41&border_color=00FF41&custom_title=⚡%20CODE%20DISTRIBUTION%20MATRIX&width=400"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HardikChhallani&theme=neon-dark&background=000000&border=00FF41&stroke=00FF41&ring=FF0080&fire=FF6600&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="Coding Streak Analytics"/>
+
+</div>
+
+<div align="center">
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=HardikChhallani&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Achievement Unlocked"/>
+
+</div>
+
+---
+
+## 🎯 `> LEADERSHIP_PROTOCOL.EXECUTIVE_MODE`
+
+<table align="center">
+<tr>
+<td width="60%">
+
+### `📢 OUTREACH_COMMANDER | MARKETING_DIVISION`
+
+```bash
+$ sudo execute LEADERSHIP_SYSTEMS
+> Timeline: JAN 2024 - DEC 2024
+> Status: MISSION_ACCOMPLISHED_WITH_EXCELLENCE
+> Role: Strategic Operations Commander
+```
+
+**🎯 STRATEGIC_OPERATIONS_COMPLETED:**
+- **📊 EVENT_ORCHESTRATION**: Masterfully executed online/offline event deployment matrices
+- **🔗 NETWORK_EXPANSION**: Successfully acquired high-profile speakers through strategic LinkedIn/Email campaigns  
+- **👥 TEAM_COORDINATION**: Led cross-functional teams with precision and achieved exponential member engagement
+- **🚀 GROWTH_METRICS**: Delivered measurable results in club expansion and community building initiatives
+
+</td>
+<td>
+
+<img src="./assets/leadership-animation.gif" width="250" alt="Leadership Animation">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 `> ESTABLISH_NEURAL_CONNECTION.NETWORK`
+
+<div align="center">
+
+<img src="./assets/connection-animation.gif" width="400" alt="Connection Animation">
+
+```
+    ╔══════════════════════════════════════════════╗
+    ║  🌐 INITIATING NEURAL NETWORK CONNECTION...  ║
+    ║  📡 QUANTUM ENTANGLEMENT PROTOCOL ACTIVE     ║
+    ║  ⚡ READY FOR COLLABORATION                   ║
+    ╚══════════════════════════════════════════════╝
+```
+
+<a href="https://linkedin.com/in/hardik-chhallani">
+<img src="https://img.shields.io/badge/LINKEDIN_MATRIX-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000"/>
+</a>
+<a href="https://twitter.com/hardikjain8071">
+<img src="https://img.shields.io/badge/TWITTER_FEED-000000?style=for-the-badge&logo=twitter&logoColor=1DA1F2&labelColor=000000"/>
+</a>
+<a href="https://kaggle.com/hardik_3599">
+<img src="https://img.shields.io/badge/KAGGLE_LAB-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF&labelColor=000000"/>
+</a>
+<a href="mailto:hardikchhallani04@gmail.com">
+<img src="https://img.shields.io/badge/QUANTUM_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/cyberpunk-footer.gif" width="900" alt="Cyberpunk Footer">
+
+### `> SYSTEM.PHILOSOPHY.DISPLAY`
+
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  "THE FUTURE BELONGS TO THOSE WHO CODE IT"                       ║
+║  - ARCHITECTING TOMORROW'S AI, ONE NEURAL NETWORK AT A TIME -    ║
+║                            - HARDIK CHHALLANI                    ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs&border=true&bg_color=000000&title_color=00FF41&text_color=00FF41"/>
+
+**`⭐ NEURAL_NETWORK://HARDIKCHHALLANI - BUILDING TOMORROW, ONE COMMIT AT A TIME! ⭐`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=KEEP%20CODING&fontSize=20&fontColor=00FF41&animation=twinkling"/>
+
+</div>
+```
