@@ -83,30 +83,18 @@ class HardikChhallani:
 ```bash
 $ sudo access HEALTHCARE_AI_DIVISION
 > Status: ████████████ ACTIVE | May 2025 - Present
-> Clearance Level: SENIOR_DEVELOPER
+> Clearance Level: DATA_SCIENCE_INTERN
 > Mission: Next-gen Medical Intelligence Systems
 ```
-
-**🎯 CORE_OPERATIONS:**
-- **🧬 BIOMEDICAL_AI**: Engineered MCP servers integrated with LLMs using clinical datasets (SNOMED, ICT, Pharmacology)
-- **🤖 INTELLIGENT_CHATBOTS**: Built autonomous systems for doctor scheduling, appointment management, and real-time calendar synchronization
-- **🌐 DATA_ACQUISITION**: Implemented multi-language medical data scraping across Indian healthcare networks
-- **⚡ SYSTEM_OPTIMIZATION**: Enhanced healthcare workflow automation with 40% efficiency gains
 
 ### `✈️ AERONAUTICAL_DEV_AGENCY | CLASSIFIED_PROJECT`
 
 ```bash
 $ decrypt DEFENSE_SYSTEMS_LOG
 > Status: ████████████ COMPLETED | June-July 2024  
-> Security Level: RESTRICTED_ACCESS
+> Security Level: RESTRICTED_ACCESS (PROJECT_TRAINEE)
 > Project Codename: WIKI_NEURAL_DEPLOYMENT
 ```
-
-**🛡️ STRATEGIC_ACHIEVEMENTS:**
-- **📊 KNOWLEDGE_SYSTEMS**: Deployed internal Wiki infrastructure for 200+ defense engineers
-- **📈 PERFORMANCE_BOOST**: Achieved 30% improvement in documentation and knowledge sharing efficiency
-- **🦾 AI_INTEGRATION**: Fine-tuned Llama3 models for classified internal defense applications
-- **🛩️ AEROSPACE_ANALYSIS**: Conducted advanced structural analysis using CATIA V5 for fighter aircraft simulation research
 
 ---
 
@@ -127,7 +115,7 @@ $ decrypt DEFENSE_SYSTEMS_LOG
 │ 🎯 MISSION: Democratize medicine accessibility │
 │ ⚡ TECH_STACK: Eka.Care MCP + Clinical Context  │
 │ 🚀 IMPACT: Cost reduction + Healthcare access  │
-│ 💊 DEPLOYMENT: [████████████] 100% LIVE        │
+│ 💊 DEPLOYMENT: [██████████] 100% LIVE          │
 │ 🌟 USERS: Thousands of patients benefited      │
 │                                                │
 └────────────────────────────────────────────────┘
@@ -151,7 +139,7 @@ $ decrypt DEFENSE_SYSTEMS_LOG
 │ 🧠 CORE_TECH: Custom Transformer Architecture   │
 │ ⚖️ DATASET: Indian Legal System (BNS)           │
 │ 🎯 TARGET_USERS: Legal professionals & students │
-│ 🔥 PROGRESS: [██████████░░] 85% COMPLETE        │
+│ 🔥 PROGRESS: [███████░░░] 70% COMPLETE          │
 │ 🌟 INNOVATION: Built from absolute zero         │
 │                                                 │
 └─────────────────────────────────────────────────┘
