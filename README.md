@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=HARDIK%20CHHALLANI&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=65"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=🧠+NEURAL+NETWORK+ARCHITECT;⚡+BUILDING+LLMS+FROM+SCRATCH;🏥+AI+SPECIALIST;🌐+OPEN+SOURCE+CONTRIBUTOR;💀+SOFTWARE+DEVELOPER;🚀+AI+ENTHUSIAST" alt="Cyberpunk Typing"/>
-
 
 </div>
 
@@ -25,10 +23,6 @@
 ⚡ POWER_LEVEL: "MAXIMUM_OVERDRIVE"
 🎮 EXPERTISE: "AI_ARCHITECT | ML_ENGINEER"
 ```
-
-</td>
-<td>
-
 
 </td>
 </tr>
@@ -61,7 +55,7 @@ $ sudo access HEALTHCARE_AI_DIVISION
 $ decrypt DEFENSE_SYSTEMS_LOG
 > Status: ████████████ COMPLETED | June-July 2024  
 > Security Level: RESTRICTED_ACCESS (PROJECT_TRAINEE)
-> Project Codename: WIKI_NEURAL_DEPLOYMENT
+> Project Codename: WIKI_DEPLOYMENT
 ```
 
 ---
@@ -182,11 +176,11 @@ $ decrypt DEFENSE_SYSTEMS_LOG
 <img src="./assets/cyberpunk-footer.gif" width="500" alt="Cyberpunk Footer">
 
 ```
-    ╔══════════════════════════════════════════════╗
-    ║  🌐 INITIATING NEURAL NETWORK CONNECTION...  ║
-    ║  📡 QUANTUM ENTANGLEMENT PROTOCOL ACTIVE     ║
-    ║  ⚡ READY FOR COLLABORATION                   ║
-    ╚══════════════════════════════════════════════╝
+    ╔═════════════════════════════════════════════╗
+    ║  🌐 INITIATING NETWORK CONNECTION...        ║
+    ║  📡 QUANTUM ENTANGLEMENT PROTOCOL ACTIVE    ║
+    ║  ⚡ READY FOR COLLABORATION                  ║
+    ╚═════════════════════════════════════════════╝
 ```
 
 <a href="https://linkedin.com/in/hardik-chhallani">
