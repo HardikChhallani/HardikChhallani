@@ -201,21 +201,6 @@ $ decrypt DEFENSE_SYSTEMS_LOG
 ---
 <div align="center">
 
-### `> SYSTEM.PHILOSOPHY.DISPLAY`
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  "THE FUTURE BELONGS TO THOSE WHO CODE IT"                     ║
-║  - ARCHITECTING TOMORROW'S AI, ONE NEURAL NETWORK AT A TIME -  ║
-║                            - HARDIK CHHALLANI                  ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower&author=Steve%20Jobs&border=true&bg_color=000000&title_color=00FF41&text_color=00FF41"/>
-
-**`⭐ NEURAL_NETWORK://HARDIKCHHALLANI - BUILDING TOMORROW, ONE COMMIT AT A TIME! ⭐`**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=KEEP%20CODING&fontSize=20&fontColor=00FF41&animation=twinkling"/>
+**`⭐ BUILDING TOMORROW, ONE COMMIT AT A TIME! ⭐`**
 
 </div>
-```
