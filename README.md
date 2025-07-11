@@ -27,59 +27,6 @@
 </div>
 
 ---
-## 🎮 `> LEGENDARY_PROJECTS.DATABASE`
-
-<div align="center">
-</div>
-
-### 🏥 `DRAVYA.AI | HEALTHCARE_REVOLUTION_PROTOCOL`
-
-<table>
-<tr>
-<td width="60%">
-
-```
-┌─ GENERIC MEDICINE AI GUIDANCE SYSTEM ──────────┐
-│                                                │
-│ 🎯 MISSION: Democratize medicine accessibility │
-│ ⚡ TECH_STACK: Eka.Care MCP + Clinical Context  │
-│ 🚀 IMPACT: Cost reduction + Healthcare access  │
-│ 💊 DEPLOYMENT: [██████████] 100% LIVE          │
-│ 🌟 USERS: Thousands of patients benefited      │
-│                                                │
-└────────────────────────────────────────────────┘
-```
-
-</td>
-
-</tr>
-</table>
-
-### 🤖 `LLMARCHE.NEURAL | AI_ARCHITECTURE_FROM_SCRATCH`
-
-<table>
-<tr>
-
-<td width="60%">
-
-```
-┌─ GPT-2 TRANSFORMER RECREATION PROJECT ──────────┐
-│                                                 │
-│ 🧠 CORE_TECH: Custom Transformer Architecture   │
-│ ⚖️ DATASET: Indian Legal System (BNS)           │
-│ 🎯 TARGET_USERS: Legal professionals & students │
-│ 🔥 PROGRESS: [███████░░░] 70% COMPLETE          │
-│ 🌟 INNOVATION: Built from absolute zero         │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🛠️ `> CYBERNETIC_TECH_ARSENAL.LOADOUT`
 
 <div align="center">
