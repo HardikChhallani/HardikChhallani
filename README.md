@@ -27,29 +27,6 @@
 </div>
 
 ---
-
-## 🌟 `> EXPERIENCE_DATABASE.ACCESS`
-
-### `🏥 ORBI_HEALTH(EKA.CARE) | ACTIVE_DEPLOYMENT`
-
-```bash
-$ sudo access HEALTHCARE_AI_DIVISION
-> Status: ████████████ ACTIVE | May 2025 - Present
-> Clearance Level: DATA_SCIENCE_INTERN
-> Mission: Next-gen Medical Intelligence Systems
-```
-
-### `✈️ AERONAUTICAL_DEV_AGENCY | CLASSIFIED_PROJECT`
-
-```bash
-$ decrypt DEFENSE_SYSTEMS_LOG
-> Status: ████████████ COMPLETED | June-July 2024  
-> Security Level: RESTRICTED_ACCESS (PROJECT_TRAINEE)
-> Project Codename: WIKI_DEPLOYMENT
-```
-
----
-
 ## 🎮 `> LEGENDARY_PROJECTS.DATABASE`
 
 <div align="center">
