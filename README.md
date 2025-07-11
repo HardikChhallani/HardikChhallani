@@ -1,13 +1,3 @@
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=HARDIK%20CHHALLANI&fontSize=35&fontColor=00FF41&animation=twinkling&fontAlignY=65"/>
-
-
-</div>
-
----
-
 ## 🔥 `> SYSTEM.STATUS`
 
 <table align="center">
