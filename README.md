@@ -6,12 +6,10 @@
 
 ```yaml
 🎯 CODENAME: "HARDIK_CHHALLANI"
-🌟 STATUS: "ONLINE | CODING | BUILDING_AI"
+🌟 STATUS: "ONLINE | CODING | BUILDING"
 📍 LOCATION: "MATRIX://VIT_VELLORE"
 🏆 PERFORMANCE: "9.03/10.0 | ELITE_TIER"
-🚀 CURRENT_MISSION: "LLMArche_GPT2_Implementation"
 ⚡ POWER_LEVEL: "MAXIMUM_OVERDRIVE"
-🎮 EXPERTISE: "AI_ARCHITECT | ML_ENGINEER"
 ```
 
 </td>
@@ -77,7 +75,7 @@
 </div>
 
 ---
-
+<div align="center">
 <a href="https://linkedin.com/in/hardik-chhallani">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000"/>
 </a>
@@ -91,8 +89,6 @@
 <img src="https://img.shields.io/badge/MAIL-000000?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=000000"/>
 </a>
 
-</div>
-<div align="center">
 
 **`⭐ BUILDING TOMORROW, ONE COMMIT AT A TIME! ⭐`**
 
