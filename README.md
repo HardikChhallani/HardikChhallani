@@ -78,19 +78,6 @@
 
 ---
 
-## 🌐 `> ESTABLISH_CONNECTION.NETWORK`
-
-<div align="center" width="40%>
-<img src="./assets/cyberpunk-footer.gif" width="500" alt="Cyberpunk Footer">
-
-```
-    ╔═════════════════════════════════════════════╗
-    ║  🌐 INITIATING NETWORK CONNECTION...        ║
-    ║  📡 QUANTUM ENTANGLEMENT PROTOCOL ACTIVE    ║
-    ║  ⚡ READY FOR COLLABORATION                  ║
-    ╚═════════════════════════════════════════════╝
-```
-
 <a href="https://linkedin.com/in/hardik-chhallani">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=000000"/>
 </a>
@@ -105,8 +92,6 @@
 </a>
 
 </div>
-
----
 <div align="center">
 
 **`⭐ BUILDING TOMORROW, ONE COMMIT AT A TIME! ⭐`**
