@@ -71,12 +71,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HardikChhallani&theme=neon-dark&background=000000&border=00FF41&stroke=00FF41&ring=FF0080&fire=FF6600&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" alt="Coding Streak Analytics"/>
-
-</div>
-
-<div align="center">
-
 
 <img src="https://github-profile-trophy.vercel.app/?username=HardikChhallani&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Achievement Unlocked"/>
 
