@@ -47,13 +47,10 @@
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=00FF41&labelColor=000000)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FFFF&labelColor=000000)
 ![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-000000?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=000000)
 
 ### `☁️ CLOUD_INFRASTRUCTURE_NETWORK`
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000000)
 ![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000)
-![CATIA](https://img.shields.io/badge/CATIA_V5-000000?style=for-the-badge&logo=dassaultsystemes&logoColor=005386&labelColor=000000)
 
 </div>
 
